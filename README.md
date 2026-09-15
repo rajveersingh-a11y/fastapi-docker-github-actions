@@ -1,6 +1,6 @@
 ## FASTAPI-DOCKER-GITHUB-ACTIONS
 
-![example workflow](https://github.com/san99tiago/fastapi-docker-github-actions/actions/workflows/ci.yml/badge.svg)
+![example workflow](https://github.com/rajveersingh-a11y/fastapi-docker-github-actions/actions/workflows/ci.yml/badge.svg)
 
 <img src="assets/fastapi-docker-github-actions.png" width=90%> <br>
 
@@ -25,7 +25,7 @@ The core idea is to have a CI/CD pipeline that illustrates the automation with C
 Begin by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/san99tiago/fastapi-docker-github-actions
+git clone https://github.com/rajveersingh-a11y/fastapi-docker-github-actions
 cd fastapi-docker-github-actions
 ```
 
